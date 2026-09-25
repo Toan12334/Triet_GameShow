@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs/
+*.sln.docstates
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.log
+.env
+.env.local
+.DS_Store
