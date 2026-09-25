@@ -3,6 +3,7 @@
 *.sln.docstates
 *.user
 *.suo
+*.sln
 
 # Node
 node_modules/

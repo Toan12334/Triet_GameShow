@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "cd gameshowtriethoc && npm install && npm run build",
+  "outputDirectory": "gameshowtriethoc/dist",
+  "installCommand": "echo skip",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
